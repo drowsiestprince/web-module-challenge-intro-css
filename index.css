@@ -1,0 +1,158 @@
+* {
+    font-family: 'Roboto Mono', 'Roboto Mono Regular';
+}
+
+#planVisit h1
+{
+    font-family: 'Chelsea Market', 'Chelsea Market Regular';
+}
+
+#getInvolved 
+{
+    text-align: center;
+}
+
+#planVisit img 
+{
+    border-radius: 1000px;
+    width: 250px;
+}
+
+#learnMore
+{
+    text-align: center;
+    background: #ddb9a3;
+    color: white;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#learnMore p
+{
+    padding: 20px;
+    font-size: 20px;
+}
+
+.float-parent
+{
+    margin: 1rem;
+    padding: 2rem 2rem;
+    display: inline-flex;
+}
+
+.float-child
+{
+    width: 40%;
+    display: inline;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.float-child h1
+{
+    font-size: 50px;
+    width: 150%;
+}
+
+.float-child p
+{
+    margin-left: 200px;
+    font-size: 20px;
+}
+
+.footer-content nav a {
+    margin: 0 50px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+    background: #F87B99;
+    text-align: center;
+    font-size: 20px;
+    width: 140px;
+  }
+
+  .header-content nav a {
+    margin: 0 50px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+    background: #F87B99;
+    text-align: center;
+    font-size: 20px;
+    width: 140px;
+  }
+
+  .footer-content nav 
+  {
+    text-align: center;
+    background: #f9e7dd;
+    padding-top: 30px;
+  }
+
+  .header-content nav 
+  {
+    text-align: center;
+  }
+
+  .footer-content #visit
+  {
+    background: #ff754e;
+  }
+
+  .footer-content #learn
+  {
+    background: #5fd3ec;
+  }
+
+  .footer-content #involve
+  {
+    background: #ffcd6a;
+  }
+
+  .header-content #visit
+  {
+    background: #ff754e;
+  }
+
+  .header-content #learn
+  {
+    background: #5fd3ec;
+  }
+
+  .header-content #involve
+  {
+    background: #ffcd6a;
+  }
+
+  #getInvolved #campfire
+  {
+    width: 300px;
+  }
+
+  #getInvolved #camper
+  {
+    width: 200px;
+  }
+
+  #getInvolved p
+  {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .footimg
+  {
+    margin-top: 50px;
+    background-image: url("assets/footer_img.jpg");
+    background-size: cover;
+  }
